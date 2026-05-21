@@ -1,0 +1,1 @@
+# Simulation-Based-Deep-Learning-for-State-of-Charge-Prediction-Using-ANN-in-Solar-Battery-Systems
